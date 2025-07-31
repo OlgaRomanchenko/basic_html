@@ -1,0 +1,17 @@
+body{
+background: url(https://static.vecteezy.com/system/resources/previews/049/855/259/non_2x/nature-background-high-resolution-wallpaper-for-a-serene-and-stunning-view-photo.jpg);
+}
+
+div{
+background: blue;
+border-color: orange;
+border-width:2 px;
+border-style: dotted;
+}
+
+p{
+color:yellow;
+}
+span{
+background:black;
+}
